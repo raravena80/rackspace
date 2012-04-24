@@ -54,9 +54,6 @@ GNU General Public License
 
 GPL License
 
-Verge of War - The Honor of Code FPS game
-Copyright (C) 2011 Surpass | studios
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
